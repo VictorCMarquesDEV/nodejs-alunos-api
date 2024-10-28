@@ -40,7 +40,7 @@ npm start
 * Clique em HTTP.
 * Coloque a URL abaixo
 ```
-http://localhost:3000/vagas
+http://localhost:3000/alunos
 ```
 * Escolha o método que desejar - GET, POST, PUT ou DELETE.
 
